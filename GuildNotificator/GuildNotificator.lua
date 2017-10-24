@@ -25,7 +25,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 ]]
 
 local ADDON_NAME = "GuildNotificator"
-local ADDON_VERSION = "12"
+local ADDON_VERSION = "13"
 local ADDON_AUTHOR = "Ayantir"
 local ADDON_WEBSITE = "http://www.esoui.com/downloads/info780-GuildNotificator.html"
 
